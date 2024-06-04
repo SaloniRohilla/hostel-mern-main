@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6467a0ee36257fce55bac877"
+  },
+  "name": "Saloni",
+  "id": 366885,
+  "room_no": 317,
+  "batch": 2021,
+  "dept": "CSE",
+  "course": "CS",
+  "email": "salonirohilla5@gmail.com",
+  "father_name": "Muhammad Tariq",
+  "contact": "9748628749",
+  "address": "Hostel Block 1",
+  "dob": {
+    "$date": "2004-06-08T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "6467a0ee36257fce55bac875"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2023-05-19T16:16:46.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6467df72c2b3142559d29326"
+  },
+  "name": "Parul",
+  "id": 368115,
+  "room_no": 212,
+  "batch": 2024,
+  "dept": "cse",
+  "course": "cs",
+  "email": "parul@gmail.com",
+  "father_name": "xyz",
+  "contact": "9876545656",
+  "address": "haryana",
+  "dob": {
+    "$date": "2023-05-09T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "6467df72c2b3142559d29324"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2023-05-19T20:43:30.844Z"
+  },
+  "__v": 0
+}]

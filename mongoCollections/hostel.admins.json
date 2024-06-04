@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "645b965902723b061fab22a2"
+  },
+  "name": "Saloni",
+  "email": "salonirohilla5@gmail.com",
+  "father_name": "Parveen Kumar",
+  "contact": "9875432727",
+  "address": "Hisar, haryana",
+  "dob": {
+    "$date": "2004-12-12T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "645b965902723b061fab22a0"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2023-05-10T13:04:25.419Z"
+  },
+  "__v": 0
+}]
